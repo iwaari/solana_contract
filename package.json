@@ -1,0 +1,23 @@
+{
+  "name": "hello-solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwaari/solana_contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwaari/solana_contract/issues"
+  },
+  "homepage": "https://github.com/iwaari/solana_contract#readme",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
+  }
+}

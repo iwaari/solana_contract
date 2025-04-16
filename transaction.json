@@ -1,0 +1,11 @@
+{
+  "program_id": "9cquf8x7sV7YXNzRKpeVuizv7t8jqnPcnVmzh7fU866R",
+  "data": "",
+  "accounts": [
+    {
+      "pubkey": "FyVZYLv7vHi8aLVNVrZuoWXbpcgi4CEPnZbQ1H7GPBZA",
+      "is_signer": true,
+      "is_writable": true
+    }
+  ]
+}
